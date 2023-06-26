@@ -31,7 +31,6 @@ public final class MessageSpec {
 
     private final Optional<Short> apiKey;
 
-
     private final MessageSpecType type;
 
     private final List<StructSpec> commonStructs;
